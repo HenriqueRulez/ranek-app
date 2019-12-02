@@ -1,7 +1,7 @@
 # ranek-app
 
 ## Project purpose
-App developet to study and improve my knowledge on Vue.js, using templates, Vuex, Vuerouter and JsonAPI as a fake endpoint to REST requests.
+App developed to study and improve my knowledge on Vue.js, using templates, Vuex, Vuerouter and JsonAPI as a fake endpoint to REST requests.
 
 ## Project setup
 ```
